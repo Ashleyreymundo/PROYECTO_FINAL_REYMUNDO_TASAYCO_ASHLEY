@@ -1,0 +1,32 @@
+---
+title: "Semana06"
+author: "REYMUNDO_TASAYCO_ASHLEY"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 06\_"Limpiar una data para utlizar una columna especifica"
+
+1.  Entramos a nuestro RStudio, con nuestro proyecto ya creado y nos vamos a Import Dataset:
+
+2.  Le damos click a From Text (readr):
+
+3.  Le damos click a Browse, seleccionamos nuestro archivo que importaremos y luego le damos en Open:
+
+4.  Una vez abierto primero copiamos nuestra data y luego le damos click en import:
+
+    TENEMOS COMO EJEMPLO A:
+
+    \<- read_csv("E:/1AA Canchari 2025/Downloads/s02_treat_artritis (1).csv")
+
+5.  Luego, en la ventana de Script pegas el código que copiaste, le agregas el comando “data” y, al final del código, presiona Ctrl + Enter para ejecutarlo; así se creará un nuevo objeto de datos en el panel de la derecha llamado data.
+
+6.  Aquí Primero identificamos qué columna contiene datos faltantes (NA); en este caso se selecciona la columna IMC. Luego regresamos a la ventana de Script y escribimos allí el comando de limpieza correspondiente para esa columna, con el fin de eliminar o reemplazar esos valores NA y dejar los datos depurados
+
+7.  Escribimos el comando para limpiar data_limpia\<- data\[!is.na(data\$imc), \] y control enter al final de todo.
+
+8.  Al final vemos que Se nos creara otra data en la ventana de alado que diga “data_limpia” lo abrimos y revisamos que los NA de la columna de IMC desapareciero
