@@ -1,0 +1,19 @@
+---
+title: "Semana04"
+author: "reymundo_tasayco_ashley"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 04\_"Como descargar un archivo en formato Csv del repositorio GIBHBUB"
+
+1.  Entramos a la Guía de Práctica y nos vamos a la semana 4, le damos al link del repositorio.
+2.  Después de ingresar darle clik a data
+3.  . Ingresamos a s04_diabetes.csv
+4.  Le damos a descargar, segun nos mostrara el signo de "descarga"
+5.  Verificamos que nuestro archivo se haya descargado.
+6.  Y listo ya podemos importarlo en nuestro documento RStudio, para realizar nuestro proyecto de trabajo.
