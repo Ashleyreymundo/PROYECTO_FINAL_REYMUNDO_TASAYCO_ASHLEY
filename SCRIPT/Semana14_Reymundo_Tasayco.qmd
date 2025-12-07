@@ -1,0 +1,30 @@
+---
+title: "Semana 14"
+author: "Reymundo_Tasayco_ashley"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 14\_"Realizar el analisis de regresion, regresion univariaday multivariada"
+
+1.  Iniciamos con regresión univariada según el caso, redactando y definiendo con las variables, y datos con el que se trabajara en la relación
+
+2.  Seguimos ejecutando “CTRL+ENTER” al final de cada código para ingresar los datos en conjunto con el ajuste un modelo de regresión lineal
+
+3.   Luego, ejecutamos con “CTRL+ENTER” al final de cada código para graficar resultados: REGRESIÓN UNIVARIADA: Sirve para analizar una sola variable (frecuencias)
+
+4.  Siguiendo, comenzamos con regresión multivariada según el caso, redactando y definiendo con las variables, y datos con el que trabajaremos en la relación
+
+5.  Seguimos ejecutando con “CTRL+ENTER” al final de cada código para ingresar los datos en conjunto con la creación del modelo de regresión multiple
+
+6.  .Luego, ejecutamos con “CTRL+ENTER” al final de cada código Revisar diagnóstico del modelo y el gráfico simple con IMC y glucosa: REGESIÓN MULTIVARIADA: Sirve para analizar varias variables juntas, por ejemplo, correlaciones múltiples o regresiones con varias variables independientes.
+
+7.  Finalmente, comenzamos con regresión lineal univariada según el caso, redactando y definiendo con las variables, y datos con el que trabajaremos en la relación
+
+8.  Seguimos ejecutando con “CTRL+ENTER” al final de cada código para ingresar los datos en conjunto de la creación del dataframe y regresión lineal, y el resumen del modelo
+
+9.  Por ultimo, ejecutamos con “CTRL+ENTER” al final de cada código para graficar resultados: REGRESIÓN LINEAL UNIVARIADO: La regresión lineal univariada es un modelo que busca explicar o predecir una sola variable usando una o más variables independientes
