@@ -1,0 +1,24 @@
+---
+title: "SEMANA02"
+author: "REYMUNDO_TASAYCO_ASHLEY"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 02\_"Creando un proyecto en Rstudio"
+
+1.Nos dirigimos a la parte superior derecha y seleccionamos new projet
+
+2\. Seleccionamos nuevo new directory
+
+3\. Seleccionamos New proyect
+
+4.Ubicamos el proyecto correctamente segun entendamos.
+
+5.Seleccionamos carpeta para guardar
+
+6.- Luego llegaremos a visualizar el proyecto creado.
