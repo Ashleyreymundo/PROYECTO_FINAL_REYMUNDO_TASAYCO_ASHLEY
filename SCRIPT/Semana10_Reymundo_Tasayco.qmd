@@ -1,0 +1,18 @@
+---
+title: "Semana10"
+author: "Reymundo_tasayco_ashley"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 10\_"Calcular las medidas de tendencia central (media aritmetica, mediana, moda)
+
+1.  Vamos a calcular la media aritmética:
+
+2.  Vamos a calcular la Mediana
+
+3.  Vamos a hallar la moda
