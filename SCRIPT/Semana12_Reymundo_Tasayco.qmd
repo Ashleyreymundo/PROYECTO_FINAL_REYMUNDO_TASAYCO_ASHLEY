@@ -1,0 +1,36 @@
+---
+title: "Semana12"
+author: "Reymundo_Tasayco"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Semana 12\_"Calcular las medidas de dispersion, varianza, desviacion, estandar, rango, rango intercuartilico"
+
+1.  Importamos la base de datos que usaremos de la que queremos hallar las medidas de disperción
+
+2.  Para conseguir la varianza usaremos el comando “var(data\$Nombre de la columna,na.rm = TRUE)” damos CTRL+ENTER y nos saldra el resultado en la ventana inferior
+
+3.  Para hallar la desviación STANDAR escribimos el comando “sd(data\$edad,na.rm = TRUE)” damos CTRL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierda
+
+<!-- -->
+
+4.  Para hallar el rango escribimos el comando ”range(data\$edad,na.rm = TRUE)” damos CTRL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierda
+
+<!-- -->
+
+5.  Para hallar el rango intercuartilico escribimos el comando “IQR(data\$edad,na.rm = TRUE)” damos CTRL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierda
+
+<!-- -->
+
+6.  Para hallar el cuartil escribimos el comando “IQR(data\$edad,na.rm = TRUE)” damos CTRL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierda
+
+<!-- -->
+
+7.  Para visualizar las 6 primeras filas escribimos el comando “head(data)” damos CRTL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierda
+
+8.  Para visualizar todos los datos de dichas medidas escribimos el comando “summary(data)” damos CTRL+ENTER y el resultado automaticamente saldrá en la ventana inferior izquierd
